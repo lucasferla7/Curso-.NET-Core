@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{C3B09227-4A07-4E78-9D88-F3B194C1111F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITDeveloper.CursoAspNetCore.Presentation", "src\ITDeveloper.CursoAspNetCore.Presentation\ITDeveloper.CursoAspNetCore.Presentation.csproj", "{39E72992-BE71-4C4B-8A54-48EFB726420C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39E72992-BE71-4C4B-8A54-48EFB726420C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E72992-BE71-4C4B-8A54-48EFB726420C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E72992-BE71-4C4B-8A54-48EFB726420C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E72992-BE71-4C4B-8A54-48EFB726420C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{39E72992-BE71-4C4B-8A54-48EFB726420C} = {C3B09227-4A07-4E78-9D88-F3B194C1111F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DAEF6D4-5C69-4216-B1C7-84D9F1067363}
+	EndGlobalSection
+EndGlobal
